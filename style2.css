@@ -1,0 +1,45 @@
+body{
+	background-image:url(image/arkaplan.jpg);
+	
+}
+
+#genel{
+	
+	
+	
+	
+}
+
+
+.icerik{
+	
+	width:80%;
+	height:170px;
+	background:yellow;
+	
+}
+
+.ust img{
+	border-radius:300px;
+	width:970px;
+	height:300px;
+	
+}
+
+.icerik{
+	width:990px;
+	height:90px;
+	background:red;
+	margin:150px;
+	margin-top:200px;
+}
+
+
+
+.alt{
+	
+	background:yellow;
+	width:100%;
+	height:100px;
+	
+}
